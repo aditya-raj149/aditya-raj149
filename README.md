@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**aditya-raj149/aditya-raj149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Machine Learning, GenAI & Software Development  
+🏆 Competitive Programmer
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Django
+- SQL
+- Git & Linux
+
+## 📚 Currently Learning
+
+- Generative AI
+- Machine Learning
+- Web Development
+
+## 🏆 Competitive Programming
+
+- Codeforces:https://codeforces.com/profile/ritinraj 
+- Solving problems in C++
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/aditya-raj-0205ba314/ 
+- Email: ritinraj7@gmail.com
