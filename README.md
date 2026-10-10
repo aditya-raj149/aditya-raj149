@@ -25,10 +25,6 @@
 - Codeforces:https://codeforces.com/profile/ritinraj 
 - Solving problems in C++
 
-## 🚀 Featured Projects
-
-Coming soon...
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/aditya-raj-0205ba314/ 
